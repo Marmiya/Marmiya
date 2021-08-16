@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mingyang Wang
 - 👀 I’m interested in CG, geometry.
-- 🌱 I’m currently learning CG.
+- 🌱 I’m currently learning WLB.
 - 💞️ I’m looking to collaborate on drone aerial trajectory.
 - 📫 How to reach me: michael.gonw@gamil.com / miyawang@stu.xidian.edu.cn
 
